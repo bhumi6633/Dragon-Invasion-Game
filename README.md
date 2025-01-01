@@ -11,9 +11,9 @@ In Dragon Invasion, your mission is to hold the line against an onslaught of dra
   4. Survive: Protect your castle from the dragons and last through as many waves as you can.
 
 # 🎮 Controls
-  -Arrow Keys: Move your cannon.
-  -Spacebar: Shoot fireballs.
-  -Q: Quit the game.
+  - Arrow Keys: Move your cannon.
+  - Spacebar: Shoot fireballs.
+  - Q: Quit the game.
 
 # 🛠️ What You Need
   - Python 3.x: The game’s foundation.
