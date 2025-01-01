@@ -19,7 +19,6 @@ In Dragon Invasion, your mission is to hold the line against an onslaught of dra
 # 🛠️ What You Need
   -Python 3.x: The game’s foundation.
   -Pygame Library (install it using pip install pygame) 
-
   
 
 <img width="1200" alt="Screenshot 2024-12-31 at 11 34 51 PM" src="https://github.com/user-attachments/assets/171a7ee2-32f7-4c30-bf92-07533dbbc40a" />
